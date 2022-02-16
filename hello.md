@@ -8,7 +8,7 @@ $x =$ number of success wanted
 $n =$ total number of Bernoulli trails (sample size)
 $p =$ probability of success for each Bernoulli trails
 
-
+test
 
 ---
 **e.g.** Given $x = 3$ with parameters $n = 5, p = 0.6$, $$f(3) = P(X = 3) = \binom5 3 0.6^{3}0.4^{2} = 0.3456$$
