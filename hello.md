@@ -8,9 +8,7 @@ $x =$ number of success wanted
 $n =$ total number of Bernoulli trails (sample size)
 $p =$ probability of success for each Bernoulli trails
 
----
-**Equations:**
-![[Screen Shot 2022-02-14 at 2.13.20 PM.png]]
+
 
 ---
 **e.g.** Given $x = 3$ with parameters $n = 5, p = 0.6$, $$f(3) = P(X = 3) = \binom5 3 0.6^{3}0.4^{2} = 0.3456$$
@@ -26,13 +24,6 @@ $X$ is a binomial random variable if the following are all true
 2. The trials are <u>independent</u>.
 3. The probability of success on each trial is a constant $p$; the probability of failure is $q=1-p$.
 4. The random variable $X$ equals the number of successes in the $n$ trials.
-
----
-Explanation:
-![[Screen Shot 2022-02-14 at 2.00.12 PM.png]]
-![[Screen Shot 2022-02-14 at 2.00.49 PM.png]]
-
-
 
 ---
 visualization: https://shiny.rit.albany.edu/stat/binomial/

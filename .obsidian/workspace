@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "4fa31b9c6e2832ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "8afebbf682027b7e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "hello.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdb1018779d42f82",
+    "type": "split",
+    "children": [
+      {
+        "id": "06da6a4f6406f537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "680486d85442be5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b67bb05199869071",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58c72666b97957e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3b6c7789a431dea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a9bf28a2413715b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hello.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8afebbf682027b7e",
+  "lastOpenFiles": [
+    "hello.md",
+    "Screen Shot 2022-02-14 at 2.13.20 PM.png.md",
+    "Bernoulli trail.md"
+  ]
+}
